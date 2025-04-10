@@ -8,6 +8,7 @@ I got into coding by jumping into a full stack developer post graduate course, w
 
 * 🌍  I'm based in Costa del Sol
 * ✉️  You can contact me at [sjudit21@yahoo.com](mailto:sjudit21@yahoo.com)
+* I'have finished power bi, excel, dax and vba.
 * 🧠  I'm learning vue, django, postgres, nextjs, goland
 * 🤝  I'm open to collaborating on projects
 * ⚡  My first computer was a comodore 16. I was able to convert the folks song and play by it.
