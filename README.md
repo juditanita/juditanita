@@ -1,7 +1,7 @@
 Hi 👋 My name is Judit Anita Szabo
 ==================================
 
-Full stack developer
+I am a google certified Project Manager and have a few stack developer skills with database visualisation
 --------------------
 
 I got into coding by jumping into a full stack developer post graduate course, with experience I picked up from memo. I love learning computer languages but most of the time I love coming up something that not so time consuming and yet, it has some meaning.
